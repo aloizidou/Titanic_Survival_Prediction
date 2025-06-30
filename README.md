@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Anomalous Transactions
 
 This project analyzes the Titanic dataset to predict passenger survival using Decision Tree and Random Forest classifiers. Built with scikit-learn, the Jupyter notebook is organized into sections covering data loading, exploratory data analysis (EDA), data cleaning, feature engineering, model building, and evaluation.
 

@@ -1,6 +1,6 @@
-# Anomalous Transactions
+# Anomalous Financial Transactions
 
-This project analyzes the Titanic dataset to predict passenger survival using Decision Tree and Random Forest classifiers. Built with scikit-learn, the Jupyter notebook is organized into sections covering data loading, exploratory data analysis (EDA), data cleaning, feature engineering, model building, and evaluation.
+This project detects anomalous transactions in a dataset of financial transactions using Decision Tree and Random Forest classifiers. Built with scikit-learn, the Jupyter notebook is organized into sections covering data loading, exploratory data analysis (EDA), data cleaning, feature engineering, model building, and evaluation.
 
 ## Highlights
 
@@ -18,12 +18,4 @@ This project analyzes the Titanic dataset to predict passenger survival using De
 * **Model Building:** Training Decision Tree and Random Forest models
 * **Evaluation:** Assessing models with metrics and visualizations
 * **Discussion:** Insights, limitations, and possible improvements
-
-## Next Steps
-
-* Hyperparameter tuning
-* Feature engineering (e.g., title extraction, family size)
-* Exploring ensemble techniques
-
-Thanks for reading:)
 
